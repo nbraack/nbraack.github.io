@@ -9,5 +9,10 @@
     "start": "04.03.2019",
     "end": "15.03.2019",
     "allDay": true
+  }, {
+    "title": "Ferien",
+    "start": "13.05.2019",
+    "end": "17.05.2019",
+    "allDay": true
   }]
 }
