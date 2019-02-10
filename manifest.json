@@ -1,0 +1,40 @@
+{
+  "short_name": "NB Home",
+  "name": "NB Homepage",
+  "icons": [
+    {
+      "src": "/nb-logo-512.png",
+      "sizes": "512x410",
+      "type": "image/png"
+    },
+    {
+      "src": "/nb-logo-192.png",
+      "sizes": "192x154",
+      "type": "image/png"
+    },
+    {
+      "src": "/nb-logo-152.png",
+      "sizes": "152x122",
+      "type": "image/png"
+    },
+    {
+      "src": "/nb-logo-144.png",
+      "sizes": "144x115",
+      "type": "image/png"
+    },
+    {
+      "src": "/nb-logo-128.png",
+      "sizes": "128x102 64x51",
+      "type": "image/png"
+    },
+    {
+      "src": "/nb-logo-32.png",
+      "sizes": "32x26 24x20 16x14",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#F5F5DC",
+  "background_color": "#006400"
+}

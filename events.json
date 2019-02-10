@@ -1,0 +1,13 @@
+{
+  "events": [{
+    "title": "Klassenlehrertag",
+    "start": "21.02.2019 9:00",
+    "end": "21.02.2019 14:00",
+    "resource": "Wir fahren zum Berliner Tor und schauen uns die Mindway 3D TrickArt an."
+  }, {
+    "title": "Ferien",
+    "start": "04.03.2019",
+    "end": "15.03.2019",
+    "allDay": true
+  }]
+}
