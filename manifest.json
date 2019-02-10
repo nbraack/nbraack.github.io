@@ -4,32 +4,32 @@
   "icons": [
     {
       "src": "/nb-logo-512.png",
-      "sizes": "512x410",
+      "sizes": "512x512",
       "type": "image/png"
     },
     {
       "src": "/nb-logo-192.png",
-      "sizes": "192x154",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
       "src": "/nb-logo-152.png",
-      "sizes": "152x122",
+      "sizes": "152x152",
       "type": "image/png"
     },
     {
       "src": "/nb-logo-144.png",
-      "sizes": "144x115",
+      "sizes": "144x144",
       "type": "image/png"
     },
     {
       "src": "/nb-logo-128.png",
-      "sizes": "128x102 64x51",
+      "sizes": "128x128 64x64",
       "type": "image/png"
     },
     {
       "src": "/nb-logo-32.png",
-      "sizes": "32x26 24x20 16x14",
+      "sizes": "32x32 24x24 16x16",
       "type": "image/png"
     }
   ],
