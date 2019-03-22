@@ -83,6 +83,12 @@
     "resource": "Die Schüler haben keine Schule.",
     "allDay": true
   },{
+    "title": "Besuch am Desy",
+    "start": "09.05.2019",
+    "end": "09.05.2019",
+    "resource": "Ganztägiger Schulausflug",
+    "allDay": true
+  },{
     "title": "Ferien",
     "start": "13.05.2019",
     "end": "17.05.2019",
