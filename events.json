@@ -54,6 +54,10 @@
     "resource": "Schüler/innen schnuppern in Berufe hinein. (ab Jg. 7)",
     "allDay": true
   },{
+    "title": "Gesellschatsarbeit",
+    "start": "08.04.2019 08:00",
+    "end": "08.04.2019 10:30"
+  },{
     "title": "Ostern",
     "start": "19.04.2019",
     "end": "22.04.2019",
@@ -62,13 +66,13 @@
     "title": "Klassenlehrertag",
     "start": "24.04.2019",
     "end": "24.04.2019",
-    "resource": "Noch in der Planung.",
+    "resource": "Besuch der Elbphilharmonie.",
     "allDay": true
   },{
     "title": "Elternabend",
     "start": "24.04.2019",
     "end": "24.04.2019",
-    "resource": "Wir freuen uns über eine zahlreiche Teilnahme",
+    "resource": "Wir freuen uns über eine zahlreiche Teilnahme. Beginn 18 Uhr.",
     "allDay": true
   },{
     "title": "Haus- und Geländetag",
