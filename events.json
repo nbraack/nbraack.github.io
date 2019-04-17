@@ -72,8 +72,13 @@
     "title": "Elternabend",
     "start": "24.04.2019",
     "end": "24.04.2019",
-    "resource": "Wir freuen uns über eine zahlreiche Teilnahme. Beginn 18 Uhr.",
+    "resource": "Wir freuen uns über eine zahlreiche Teilnahme. Beginn 18 Uhr. Ab 19 Uhr Veranstaltung in der Aula.",
     "allDay": true
+  },{
+    "title": "NaWi Vortrag Teil 1",
+    "start": "26.04.2019 08:00",
+    "end": "26.04.2019 09:30",
+    "resource": "Es wird ausgelost wer präsentiert."
   },{
     "title": "Haus- und Geländetag",
     "start": "27.04.2019",
@@ -87,11 +92,25 @@
     "resource": "Die Schüler haben keine Schule.",
     "allDay": true
   },{
+    "title": "Mathe Arbeit",
+    "start": "08.05.2019 12:30",
+    "end": "28.02.2019 14:00",
+    "resource": "Thema: Flächen, Umfang und Volumen"
+  },{
     "title": "Besuch am Desy",
     "start": "09.05.2019",
     "end": "09.05.2019",
     "resource": "Ganztägiger Schulausflug",
     "allDay": true
+  },{
+    "title": "NaWi Vortrag Teil 2",
+    "start": "10.05.2019 08:00",
+    "end": "10.05.2019 09:30",
+    "resource": "Es wird präsentieren die restlichen SchülerInnen."
+  },{
+    "title": "Englisch Arbeit",
+    "start": "10.05.2019 10:00",
+    "end": "10.05.2019 11:30"
   },{
     "title": "Ferien",
     "start": "13.05.2019",
