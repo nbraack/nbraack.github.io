@@ -140,7 +140,7 @@
     "resource": "Die Schüler haben keine Schule.",
     "allDay": true
   },{
-    "title": "Projektwoche",
+    "title_BROKEN": "Projektwoche",
     "start": "17.06.2019",
     "end": "21.06.2019",
     "resource": "Noch in der Planung.",
