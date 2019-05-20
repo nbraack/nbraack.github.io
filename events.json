@@ -156,6 +156,12 @@
     "start": "20.06.2019 19:30",
     "end": "20.06.2019 22:00"
   },{
+    "title": "Sommerfest",
+    "start": "21.06.2019",
+    "end": "21.06.2019",
+    "resource": "Beginn 15 Uhr",
+    "allDay": true
+  },{
     "title": "Fußballturnier",
     "start": "24.06.2019",
     "end": "24.06.2019",
