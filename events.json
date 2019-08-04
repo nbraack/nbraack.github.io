@@ -1,187 +1,207 @@
 {
   "events": [{
+    "title": "Fachunterricht durch Tutoren",
+    "start": "08.08.2019 8:00",
+    "end": "08.08.2019 13:15",
+    "resource": "Hugo und Schreibsachen mitbringen."
+  },{
+    "title": "Fachunterricht durch Tutoren",
+    "start": "09.08.2019 8:00",
+    "end": "09.08.2019 12:45",
+    "resource": "Hugo und Schreibsachen mitbringen. Bücherausgabe findet statt."
+  },{
+    "title": "Kurswahlen Ganztag",
+    "start": "19.08.2019",
+    "end": "19.08.2019",
+    "resource": "In dieser Woche werden die Kurse für den Ganztag gewählt."
+  },{
+    "title": "Elternabend",
+    "start": "21.08.2019",
+    "end": "21.08.2019",
+    "resource": "Die Uhrzeit wird noch bekannt gegeben."
+  },{
+    "title": "Projektwoche",
+    "start": "26.08.2019",
+    "end": "30.08.2019",
+    "resource": "Teilnahme von 8:00 bis 13:30 Uhr. Kein regulärer Unterricht.",
+    "allDay": true
+  },{
+    "title": "Pädagogischer Jahrestag",
+    "start": "25.09.2019",
+    "end": "25.09.2019",
+    "resource": "Kein Unterricht!",
+    "allDay": true
+  },{
+    "title": "Klassenlehrertag / Lauffest",
+    "start": "02.10.2019 8:00",
+    "end": "02.10.2019 13:30",
+    "resource": "Ablauf wird noch bekannt gegeben."
+  },{
+    "title": "Feiertag",
+    "start": "03.10.2019",
+    "end": "03.10.2019",
+    "resource": "Kein Unterricht!",
+    "allDay": true
+  },{
+    "title": "Brückentag",
+    "start": "04.10.2019",
+    "end": "04.10.2019",
+    "resource": "Kein Unterricht!",
+    "allDay": true
+  },{
+    "title": "Herbstferien",
+    "start": "06.10.2019",
+    "end": "18.10.2019",
+    "allDay": true
+  },{
+    "title": "Feiertag",
+    "start": "31.10.2019",
+    "end": "31.10.2019",
+    "resource": "Kein Unterricht!",
+    "allDay": true
+  },{
+    "title": "Brückentag",
+    "start": "01.11.2019",
+    "end": "01.11.2019",
+    "resource": "Kein Unterricht!",
+    "allDay": true
+  },{
+    "title": "Motivationsgespräche",
+    "start": "04.11.2019",
+    "end": "05.11.2019",
+    "resource": "Unterricht nur bis 13:15 Uhr."
+  },{
+    "title": "Klassenlehrertag",
+    "start": "03.12.2019 8:00",
+    "end": "03.12.2019 13:30",
+    "resource": "Ablauf wird noch bekannt gegeben."
+  },{
+    "title": "Weihnachtskonzert",
+    "start": "10.12.2019",
+    "end": "10.12.2019",
+    "resource": "Beginn um 18:00 Uhr"
+  },{
+    "title": "Weihnachtsferien",
+    "start": "20.12.2019",
+    "end": "03.01.2020",
+    "allDay": true
+  },{
+    "title": "Tag der offenen Tür",
+    "start": "11.01.2020 10:30",
+    "end": "11.01.2020 13:00",
+    "resource": "Über Unterstützung würden wir uns freuen."
+  },{
+    "title": "Zeugnis-Vorkonferenz",
+    "start": "16.01.2020",
+    "end": "16.01.2020",
+    "resource": "Uhrzeit wird noch bekannt gegeben."
+  },{
     "title": "Lernentwicklungsgespräche",
-    "start": "30.01.2019 13:30",
-    "end": "31.01.2019 18:00",
-    "resource": "Die Schüler kommen zu ihrem Termin in die Schule.",
+    "start": "29.01.2020",
+    "end": "29.01.2020",
+    "resource": "Unterricht nur bis 13:15 Uhr."
+  },{
+    "title": "Lernentwicklungsgespräche",
+    "start": "30.01.2020",
+    "end": "30.01.2020",
+    "resource": "Kein Unterricht!",
     "allDay": true
   },{
     "title": "Halbjahrespause",
-    "start": "01.02.2019",
-    "end": "01.02.2019",
-    "resource": "Die Schüler haben keine Schule.",
+    "start": "31.01.2020",
+    "end": "31.01.2020",
+    "resource": "Kein Unterricht!",
     "allDay": true
   },{
-    "title": "Klassenlehrertag",
-    "start": "21.02.2019 9:00",
-    "end": "21.02.2019 14:00",
-    "resource": "Wir fahren zum Berliner Tor und schauen uns die Mindway 3D TrickArt an."
-  }, {
-    "title": "NaWi-Mappe abgeben",
-    "start": "22.02.2019 8:00",
-    "end": "22.02.2019 9:30",
-    "resource": "Bitte denkt daran, dass die Körpermappe vollständig abgegeben wird. Die Mappe wird benotet."
-  },{
-    "title": "Schulhofreinigung",
-    "start": "25.02.2019",
-    "end": "01.03.2019",
-    "resource": "Diese Woche seid ihr für die Schulhofreinigung eingeteilt. Bitte nicht vergessen!",
+    "title": "Frühjahrsferien",
+    "start": "03.03.2020",
+    "end": "13.03.2020",
     "allDay": true
   },{
-    "title": "Mathe Arbeit",
-    "start": "28.02.2019 12:30",
-    "end": "28.02.2019 14:00",
-    "resource": "Thema: Dezimalzahlen"
+    "title": "Känguru-Wettbewerb",
+    "start": "19.03.2020 08:00",
+    "end": "19.03.2020 10:00",
+    "resource": "Teilnahme an mathematisch anspruchsvollen Knobelaufgaben."
   },{
-    "title": "Ferien",
-    "start": "04.03.2019",
-    "end": "15.03.2019",
-    "allDay": true
-  }, {
-    "title": "Känguru Wettbewerb",
-    "start": "21.03.2019 8:00",
-    "end": "21.03.2019 9:30",
-    "resource": "Aurel, Yusuf, Jaden, Lennart und Mohammad nehmen an dem Wettbewerb teil."
-  },{
-    "title": "Deutsch Arbeit",
-    "start": "27.03.2019 10:00",
-    "end": "27.03.2019 11:30",
-    "resource": "Thema: Fabeln"
-  },{
-    "title": "Zukunftstag",
-    "start": "28.03.2019",
-    "end": "28.03.2019",
-    "resource": "Schüler/innen schnuppern in Berufe hinein. (ab Jg. 7)",
+    "title": "Girls & Boys Day",
+    "start": "26.03.2020",
+    "end": "26.03.2020",
+    "resource": "Berufe ausprobieren.",
     "allDay": true
   },{
-    "title": "Gesellschatsarbeit",
-    "start": "08.04.2019 08:00",
-    "end": "08.04.2019 10:30"
-  },{
-    "title": "Ostern",
-    "start": "19.04.2019",
-    "end": "22.04.2019",
+    "title": "Feiertag",
+    "start": "10.04.2020",
+    "end": "10.04.2020",
+    "resource": "Kein Unterricht!",
     "allDay": true
   },{
-    "title": "Klassenlehrertag",
-    "start": "24.04.2019",
-    "end": "24.04.2019",
-    "resource": "Besuch der Elbphilharmonie.",
+    "title": "Feiertag",
+    "start": "13.04.2020",
+    "end": "13.04.2020",
+    "resource": "Kein Unterricht!",
     "allDay": true
   },{
     "title": "Elternabend",
-    "start": "24.04.2019",
-    "end": "24.04.2019",
-    "resource": "Wir freuen uns über eine zahlreiche Teilnahme. Beginn 18 Uhr. Ab 19 Uhr Veranstaltung in der Aula.",
-    "allDay": true
-  },{
-    "title": "NaWi Vortrag Teil 1",
-    "start": "26.04.2019 08:00",
-    "end": "26.04.2019 09:30",
-    "resource": "Es wird ausgelost wer präsentiert."
+    "start": "21.04.2020",
+    "end": "21.04.2020",
+    "resource": "Uhrzeiten werden noch bekannt gegeben."
   },{
     "title": "Haus- und Geländetag",
-    "start": "27.04.2019",
-    "end": "27.04.2019",
-    "resource": "Wir räumen unsere Schule auf und hoffen auf tatkräftige Unterstützung von Schülern und Eltern.",
+    "start": "25.04.2020 10:00",
+    "end": "25.04.2020 13:00",
+    "resource": "Wir freuen uns über jede Unterstützung."
+  },{
+    "title": "Klassenlehrertag",
+    "start": "28.04.2020 8:00",
+    "end": "28.04.2020 13:30",
+    "resource": "Ablauf wird noch bekannt gegeben."
+  },{
+    "title": "Feiertag",
+    "start": "01.05.2020",
+    "end": "01.05.2020",
+    "resource": "Kein Unterricht!",
+    "allDay": true
+  },{
+    "title": "Kulturnachmittag",
+    "start": "07.05.2020",
+    "end": "07.05.2020",
+    "resource": "Kein Unterricht!"
+  },{
+    "title": "Maiferien",
+    "start": "18.05.2020",
+    "end": "22.05.2020",
     "allDay": true
   },{
     "title": "Feiertag",
-    "start": "01.05.2019",
-    "end": "01.05.2019",
-    "resource": "Die Schüler haben keine Schule.",
+    "start": "01.06.2020",
+    "end": "01.06.2020",
+    "resource": "Kein Unterricht!",
     "allDay": true
   },{
-    "title": "Mathe Arbeit",
-    "start": "08.05.2019 12:30",
-    "end": "08.05.2019 14:00",
-    "resource": "Thema: Flächen, Umfang und Volumen"
-  },{
-    "title": "Besuch am Desy",
-    "start": "09.05.2019",
-    "end": "09.05.2019",
-    "resource": "Ganztägiger Schulausflug",
-    "allDay": true
-  },{
-    "title": "NaWi Vortrag Teil 2",
-    "start": "10.05.2019 08:00",
-    "end": "10.05.2019 09:30",
-    "resource": "Es wird präsentieren die restlichen SchülerInnen."
-  },{
-    "title": "Englisch Arbeit",
-    "start": "10.05.2019 10:00",
-    "end": "10.05.2019 11:30"
-  },{
-    "title": "Ferien",
-    "start": "13.05.2019",
-    "end": "17.05.2019",
-    "allDay": true
-  },{
-    "title": "Deutsch Arbeit",
-    "start": "22.05.2019 10:00",
-    "end": "22.05.2019 11:30",
-    "resource": "Thema: Sachtexte, Rechtschreibung und Textknacker"
-  },{
-    "title": "Notenabgabe",
-    "start": "24.05.2019",
-    "end": "24.05.2019",
-    "resource": "Die Noten für die Zeugnisse werden eingetragen.",
-    "allDay": true
-  },{
-    "title": "Feiertag",
-    "start": "30.05.2019",
-    "end": "31.05.2019",
-    "resource": "Die Schüler haben keine Schule.",
-    "allDay": true
-  },{
-    "title": "Feiertag",
-    "start": "10.06.2019",
-    "end": "10.06.2019",
-    "resource": "Die Schüler haben keine Schule.",
-    "allDay": true
+    "title": "Zeugniskonferenz",
+    "start": "15.06.2020",
+    "end": "15.06.2020",
+    "resource": "Ablauf wird noch bekannt gegeben."
   },{
     "title": "Projektwoche",
-    "start": "17.06.2019",
-    "end": "21.06.2019",
-    "resource": "Noch in der Planung.",
+    "start": "15.06.2020",
+    "end": "19.06.2020",
+    "resource": "Teilnahme von 8:00 bis 13:30 Uhr. Kein regulärer Unterricht.",
+  },{
+    "title": "Umzug vom Stieg zum Redder",
+    "start": "22.06.2020",
+    "end": "22.06.2020",
+    "resource": "Kein Unterricht!",
     "allDay": true
   },{
-    "title": "Ideen Expo",
-    "start": "17.06.2019",
-    "end": "17.06.2019",
-    "resource": "Ganztagesausflug nach Hannover",
-    "allDay": true
+    "title": "Letzter Schultag",
+    "start": "24.06.2020 8:00",
+    "end": "24.06.2020 9:30",
+    "resource": "Zeugnisausgabe"
   },{
-    "title": "Mary Poppins",
-    "start": "20.06.2019 19:30",
-    "end": "20.06.2019 22:00"
-  },{
-    "title": "Sommerfest",
-    "start": "21.06.2019",
-    "end": "21.06.2019",
-    "resource": "Beginn 15 Uhr",
-    "allDay": true
-  },{
-    "title": "Fußballturnier",
-    "start": "24.06.2019",
-    "end": "24.06.2019",
-    "resource": "Kein regulärer Unterricht.Sportsachen mitbringen.",
-    "allDay": true
-  },{
-    "title": "Bundesjugendspiele",
-    "start": "25.06.2019",
-    "end": "25.06.2019",
-    "resource": "Kein regulärer Unterricht. Sportsachen mitbringen.",
-    "allDay": true
-  },{
-    "title": "Zeugnisvergabe",
-    "start": "26.06.2019 8:00",
-    "end": "26.06.2019 9:30",
-    "resource": "Kein regulärer Unterricht. Zeugnismappe mitbringen."
-  },{
-    "title": "Ferien",
-    "start": "27.06.2019",
-    "end": "07.08.2019",
+    "title": "Sommerferien",
+    "start": "25.06.2020",
+    "end": "05.08.2020",
     "allDay": true
   }]
 }
