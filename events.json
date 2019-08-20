@@ -32,6 +32,11 @@
     "resource": "Kein Unterricht!",
     "allDay": true
   },{
+    "title": "Mathe-Arbeit",
+    "start": "30.09.2019 8:00",
+    "end": "30.09.2019 09:30",
+    "resource": "Thema: Rationale Zahlen"
+  },{
     "title": "Klassenlehrertag / Lauffest",
     "start": "02.10.2019 8:00",
     "end": "02.10.2019 13:30",
@@ -70,6 +75,11 @@
     "start": "04.11.2019",
     "end": "05.11.2019",
     "resource": "Unterricht nur bis 13:15 Uhr."
+  },{
+    "title": "Mathe-Arbeit",
+    "start": "28.11.2019 12:30",
+    "end": "28.11.2019 14:00",
+    "resource": "Thema: Strom und Stromkreisläufe"
   },{
     "title": "Klassenlehrertag",
     "start": "03.12.2019 8:00",
