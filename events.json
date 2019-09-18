@@ -32,6 +32,10 @@
     "resource": "Kein Unterricht!",
     "allDay": true
   },{
+    "title": "Englisch-Arbeit",
+    "start": "26.09.2019 08:00",
+    "end": "26.09.2019 09:30"
+  },{
     "title": "Mathe-Arbeit",
     "start": "30.09.2019 8:00",
     "end": "30.09.2019 09:30",
@@ -65,6 +69,11 @@
     "resource": "Wir werden zum Thema GPS und Geocaching am DESY arbeiten",
     "allDay": true
   },{
+    "title": "Deutsch-Arbeit",
+    "start": "30.10.2019 8:00",
+    "end": "30.10.2019 09:30",
+    "resource": "Thema: Balladen"
+  },{
     "title": "Feiertag",
     "start": "31.10.2019",
     "end": "31.10.2019",
@@ -87,6 +96,10 @@
     "end": "28.11.2019 14:00",
     "resource": "Thema: Strom und Stromkreisläufe"
   },{
+    "title": "Deutsch-Arbeit",
+    "start": "29.11.2019 8:00",
+    "end": "29.11.2019 09:30"
+  },{
     "title": "Klassenlehrertag",
     "start": "03.12.2019 8:00",
     "end": "03.12.2019 13:30",
@@ -96,6 +109,10 @@
     "start": "10.12.2019",
     "end": "10.12.2019",
     "resource": "Beginn um 18:00 Uhr"
+  },{
+    "title": "Deutsch-Arbeit",
+    "start": "13.12.2019 8:00",
+    "end": "13.12.2019 09:30"
   },{
     "title": "Weihnachtsferien",
     "start": "20.12.2019",
