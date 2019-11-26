@@ -91,28 +91,34 @@
     "end": "05.11.2019",
     "resource": "Unterricht nur bis 13:15 Uhr."
   },{
-    "title": "NaWi-Arbeit",
-    "start": "28.11.2019 12:30",
-    "end": "28.11.2019 14:00",
-    "resource": "Thema: Strom und Stromkreisläufe"
+    "title": "Gesellschaft-Arbeit",
+    "start": "28.11.2019 10:00",
+    "end": "28.11.2019 11:30"
   },{
     "title": "Deutsch-Arbeit",
-    "start": "29.11.2019 8:00",
-    "end": "29.11.2019 09:30"
+    "start": "06.12.2019 8:00",
+    "end": "06.12.2019 09:30",
+    "resource": "Thema: Beschreiben"
   },{
     "title": "Klassenlehrertag",
     "start": "03.12.2019 8:00",
     "end": "03.12.2019 13:30",
-    "resource": "Ablauf wird noch bekannt gegeben."
+    "resource": "Weihnachtsbasteln"
   },{
     "title": "Weihnachtskonzert",
     "start": "10.12.2019",
     "end": "10.12.2019",
     "resource": "Beginn um 18:00 Uhr"
   },{
-    "title": "Deutsch-Arbeit",
-    "start": "13.12.2019 8:00",
-    "end": "13.12.2019 09:30"
+    "title": "NaWi-Arbeit",
+    "start": "13.12.2019 12:30",
+    "end": "13.12.2019 14:00",
+    "resource": "Thema: Strom"
+  },{
+    "title": "Mathe-Arbeit",
+    "start": "16.12.2019 8:00",
+    "end": "16.12.2019 09:30",
+    "resource": "Thema: Bruchrechnung"
   },{
     "title": "Weihnachtsferien",
     "start": "20.12.2019",
