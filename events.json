@@ -142,24 +142,30 @@
     "start": "02.03.2020",
     "end": "13.03.2020"
   },{
+    "title": "Schule geschlossen",
+    "start": "16.03.2020",
+    "end": "29.03.2020",
+    "desc": "Die Schülerinnen und Schüler erhalten in Kürze Aufgaben zur Bearbeitung für Zuhause",
+    "color": "darkblue"
+  },{
     "title": "Mathe-Arbeit",
-    "start": "16.03.2020 8:00",
-    "end": "16.03.2020 09:30",
-    "desc": "Thema: Zuordnungen",
+    "start": "30.03.2020 8:00",
+    "end": "30.03.2020 09:30",
+    "desc": "Verschiebung aufgrund der Schulschließung, Thema: Zuordnungen",
     "color": "darkred"
   },{
     "title": "MINT-Mädchen",
     "start": "17.03.2020",
-    "desc": "Besuch bei Stromnetz Hamburg (Der Ausflug richtet sich an interessierte Mädchen)"
+    "desc": "Entfällt"
   },{
     "title": "Känguru-Wettbewerb",
     "start": "19.03.2020 08:00",
     "end": "19.03.2020 10:00",
-    "desc": "Teilnahme an mathematisch anspruchsvollen Knobelaufgaben."
+    "desc": "Entfällt"
   },{
     "title": "Girls & Boys Day",
     "start": "26.03.2020",
-    "desc": "Berufe ausprobieren."
+    "desc": "Entfällt"
   },{
     "title": "Feiertag",
     "start": "10.04.2020",
