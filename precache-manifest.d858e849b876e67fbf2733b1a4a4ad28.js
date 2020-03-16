@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aufgaben/Bio/Nachweis von Kohlenhydraten.doc"
   },
   {
-    "revision": "6c00644a4d998b46401bf914eb3c0ef7",
-    "url": "/Aufgaben/Englisch/English Assignment for Monday.docx"
+    "revision": "ac89daeb0410cd8d98741e132d15faea",
+    "url": "/Aufgaben/Englisch/English Assignment.doc"
   },
   {
     "revision": "d0441b84533bda27fd419909cf5901be",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/board.jpg"
   },
   {
-    "revision": "6f92c046c860636698933c21f7dafc8a",
+    "revision": "dccdfc8abe4ab3cde6c5970b123fee3a",
     "url": "/index.html"
   },
   {
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/share.jpg"
   },
   {
-    "revision": "45c0cd615ca460882d4e",
+    "revision": "5abde1c74aab26e88965",
     "url": "/static/css/main.07692513.chunk.css"
   },
   {
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.74fcf29b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45c0cd615ca460882d4e",
-    "url": "/static/js/main.1a28ac7a.chunk.js"
+    "revision": "5abde1c74aab26e88965",
+    "url": "/static/js/main.9fcf8166.chunk.js"
   },
   {
     "revision": "d51a055786ea4fe4dc68",
