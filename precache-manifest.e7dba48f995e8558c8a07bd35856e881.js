@@ -1,10 +1,42 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
+    "revision": "b6fa345e5a6107920a438568aba745f7",
+    "url": "/Aufgaben/Bio/Ernährungs-Mappe.pdf"
+  },
+  {
+    "revision": "4949d8de4f974951a3a678e618946fcf",
+    "url": "/Aufgaben/Bio/Nachweis von Eiweiß.doc"
+  },
+  {
+    "revision": "63c1cea25672d03b95918b1060f6833e",
+    "url": "/Aufgaben/Bio/Nachweis von Kohlenhydraten.doc"
+  },
+  {
+    "revision": "6c00644a4d998b46401bf914eb3c0ef7",
+    "url": "/Aufgaben/Englisch/English Assignment for Monday.docx"
+  },
+  {
+    "revision": "d0441b84533bda27fd419909cf5901be",
+    "url": "/Aufgaben/Gesellschaft/Geschichte.pdf"
+  },
+  {
+    "revision": "cd50387cf6713e2eb782dff7a9c93257",
+    "url": "/Aufgaben/Gesellschaft/Planet Schule Rallye-Mittelalter.pdf"
+  },
+  {
+    "revision": "c35e633b895d752f5ea03b922d5c4ef8",
+    "url": "/Aufgaben/Mathe/Klasse 7 Mathematik Checkliste plus ABs und Lösungen.pdf"
+  },
+  {
+    "revision": "e14dfefd1aea11b38d8d59c741a37133",
+    "url": "/Aufgaben/Wochenplan.pdf"
+  },
+  {
     "revision": "f7e7225a7fa533d5aeaa17aeea062311",
     "url": "/board.jpg"
   },
   {
-    "revision": "e834b22246d3b78fe3a711659d5bae3f",
+    "revision": "6f92c046c860636698933c21f7dafc8a",
     "url": "/index.html"
   },
   {
@@ -56,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/share.jpg"
   },
   {
-    "revision": "e58170838be2df44894d",
-    "url": "/static/css/main.0a75386b.chunk.css"
+    "revision": "45c0cd615ca460882d4e",
+    "url": "/static/css/main.07692513.chunk.css"
   },
   {
     "revision": "217533751f7be932c086",
@@ -68,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.74fcf29b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e58170838be2df44894d",
-    "url": "/static/js/main.f920179d.chunk.js"
+    "revision": "45c0cd615ca460882d4e",
+    "url": "/static/js/main.1a28ac7a.chunk.js"
   },
   {
     "revision": "d51a055786ea4fe4dc68",
