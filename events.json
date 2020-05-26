@@ -204,7 +204,8 @@
     "title": "1. Gruppe Unterricht",
     "start": "27.05.2020 9:45",
     "end": "27.05.2020 15:15",
-    "desc": "Gruppe 1 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz"
+    "desc": "Gruppe 1 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz",
+    "color": "#868619"
   },{
     "title": "Mathe-Arbeit Gruppe 1",
     "start": "27.05.2020 11:45",
@@ -215,7 +216,8 @@
     "title": "2. Gruppe Unterricht",
     "start": "28.05.2020 9:45",
     "end": "28.05.2020 15:15",
-    "desc": "Gruppe 2 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz"
+    "desc": "Gruppe 2 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz",
+    "color": "#167b64"
   },{
     "title": "Mathe-Arbeit Gruppe 2",
     "start": "28.05.2020 11:45",
@@ -230,17 +232,20 @@
     "title": "1. Gruppe Unterricht",
     "start": "03.06.2020 9:45",
     "end": "03.06.2020 15:15",
-    "desc": "Gruppe 1 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz"
+    "desc": "Gruppe 1 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz",
+    "color": "#868619"
   },{
     "title": "2. Gruppe Unterricht",
     "start": "04.06.2020 9:45",
     "end": "04.06.2020 15:15",
-    "desc": "Gruppe 2 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz"
+    "desc": "Gruppe 2 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz",
+    "color": "#167b64"
   },{
     "title": "1. Gruppe Unterricht",
     "start": "10.06.2020 9:45",
     "end": "10.06.2020 15:15",
-    "desc": "Gruppe 1 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz"
+    "desc": "Gruppe 1 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz",
+    "color": "#868619"
   },{
     "title": "Vorkonferenz",
     "start": "10.06.2020",
@@ -249,7 +254,8 @@
     "title": "2. Gruppe Unterricht",
     "start": "11.06.2020 9:45",
     "end": "11.06.2020 15:15",
-    "desc": "Gruppe 2 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz"
+    "desc": "Gruppe 2 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz",
+    "color": "#167b64"
   },{
     "title": "Zeugniskonferenz",
     "start": "12.06.2020"
@@ -257,12 +263,14 @@
     "title": "1. Gruppe Unterricht",
     "start": "17.06.2020 9:45",
     "end": "17.06.2020 15:15",
-    "desc": "Gruppe 1 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz"
+    "desc": "Gruppe 1 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz",
+    "color": "#868619"
   },{
     "title": "2. Gruppe Unterricht",
     "start": "18.06.2020 9:45",
     "end": "18.06.2020 15:15",
-    "desc": "Gruppe 2 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz"
+    "desc": "Gruppe 2 findet sich pünktlich mit Mundschutz im Bereich B ein. Eingang über den Sportplatz",
+    "color": "#167b64"
   },{
     "title": "Umzug vom Stieg zum Redder",
     "start": "22.06.2020",
