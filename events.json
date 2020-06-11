@@ -275,7 +275,8 @@
     "title": "Zeugnisvergabe",
     "start": "22.06.2020 8:00",
     "end": "22.06.2020 8:45",
-    "desc": "Die Zeugnisse werden in der Turnhalle ausgegeben. Bitte eine Zeugnismappe mitbringen. Im Anschluss werden wir mit einzelnen Schülern die Tische und Stühle wieder in den Klassenraum tragen."
+    "desc": "Die Zeugnisse werden in der Turnhalle ausgegeben. Bitte eine Zeugnismappe mitbringen. Im Anschluss werden wir mit einzelnen Schülern die Tische und Stühle wieder in den Klassenraum tragen.",
+    "color": "darkred"
   },{
     "title": "1. Gruppe Unterricht",
     "start": "24.06.2020 9:00",
