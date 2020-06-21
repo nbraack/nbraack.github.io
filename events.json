@@ -278,17 +278,17 @@
     "desc": "Die Zeugnisse werden in der Turnhalle ausgegeben. Bitte eine Zeugnismappe mitbringen. Im Anschluss werden wir mit einzelnen Schülern die Tische und Stühle wieder in den Klassenraum tragen.",
     "color": "darkred"
   },{
-    "title": "1. Gruppe Unterricht",
+    "title": "2. Gruppe Unterricht",
     "start": "24.06.2020 9:00",
     "end": "24.06.2020 10:30",
-    "desc": "Die Zeugniskopien werden gegen die Orginale getauscht. Es findet eine Verabschiedung im kleinen Rahmen statt (nur Gruppe 1).",
-    "color": "#868619"
-  },{
-    "title": "2. Gruppe Unterricht",
-    "start": "24.06.2020 11:30",
-    "end": "24.06.2020 13:00",
     "desc": "Die Zeugniskopien werden gegen die Orginale getauscht. Es findet eine Verabschiedung im kleinen Rahmen statt (nur Gruppe 2).",
     "color": "#167b64"
+  },{
+    "title": "1. Gruppe Unterricht",
+    "start": "24.06.2020 11:30",
+    "end": "24.06.2020 13:00",
+    "desc": "Die Zeugniskopien werden gegen die Orginale getauscht. Es findet eine Verabschiedung im kleinen Rahmen statt (nur Gruppe 1).",
+    "color": "#868619"
   },{
     "title": "Sommerferien",
     "start": "25.06.2020",
