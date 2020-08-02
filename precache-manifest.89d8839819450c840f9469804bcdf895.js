@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chalk-board.otf"
   },
   {
-    "revision": "06549393a3bb82f5337f0213ccd4da0e",
+    "revision": "d9174fc7e8350e8d56d799651ea68663",
     "url": "/index.html"
   },
   {
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/share.jpg"
   },
   {
-    "revision": "8125a438bca69fed2027",
-    "url": "/static/css/main.1bd818ff.chunk.css"
+    "revision": "011101939aee509d940a",
+    "url": "/static/css/main.c9aedacd.chunk.css"
   },
   {
     "revision": "330dfbad16c0f2d54866",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.77944104.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8125a438bca69fed2027",
-    "url": "/static/js/main.da66c162.chunk.js"
+    "revision": "011101939aee509d940a",
+    "url": "/static/js/main.4924fcc0.chunk.js"
   },
   {
     "revision": "2749240b9fc4cc6063d8",
