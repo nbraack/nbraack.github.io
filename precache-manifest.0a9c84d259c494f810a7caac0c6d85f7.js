@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chalk-board.otf"
   },
   {
-    "revision": "8f2d7a46fbb8422f786ceed7be124fbc",
+    "revision": "106254ca29e9461056a9228af0ed72c2",
     "url": "/index.html"
   },
   {
@@ -16,36 +16,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/light.jpg"
   },
   {
-    "revision": "090dd71c4e9a697fbcc540bc8f54c55b",
+    "revision": "415a31a155833c6e1f32dd301785af23",
+    "url": "/logo-128.png"
+  },
+  {
+    "revision": "be0964a4159bb61a82bb96cb65aac277",
+    "url": "/logo-144.png"
+  },
+  {
+    "revision": "f91ebbf29d6f073a286071f936bd9188",
+    "url": "/logo-152.png"
+  },
+  {
+    "revision": "c426b603a3605c213661616fa7ed424d",
+    "url": "/logo-16.png"
+  },
+  {
+    "revision": "2f7dc06c0f5a46c22e4da736623725a3",
+    "url": "/logo-180.png"
+  },
+  {
+    "revision": "7f327dddb4fe7e01ac5f39bd26580a3a",
+    "url": "/logo-192.png"
+  },
+  {
+    "revision": "c449ea752f0d186548eabbeb99ccec0d",
+    "url": "/logo-24.png"
+  },
+  {
+    "revision": "6b2ff5ec84500609ecae8b9049fc80cf",
+    "url": "/logo-32.png"
+  },
+  {
+    "revision": "d1a4c6bae4086d00c817c0224b9ebded",
+    "url": "/logo-512.png"
+  },
+  {
+    "revision": "ac1d1cf6c6628684cad795c21a92d607",
+    "url": "/logo-64.png"
+  },
+  {
+    "revision": "920804899358f48db683e5ce5cad26cd",
+    "url": "/logo.svg"
+  },
+  {
+    "revision": "bef423a54e79871c77f6e749daa4df9c",
     "url": "/manifest.json"
-  },
-  {
-    "revision": "dd6bc38bce04f827966c3e8ac089c4b1",
-    "url": "/nb-logo-128.png"
-  },
-  {
-    "revision": "bc7b52609221441b45ffd33ff9f5753e",
-    "url": "/nb-logo-144.png"
-  },
-  {
-    "revision": "1e642a39bac9c9692432d08a6337ffa5",
-    "url": "/nb-logo-152.png"
-  },
-  {
-    "revision": "432ddf96964553a65b4527fdd321ae29",
-    "url": "/nb-logo-192.png"
-  },
-  {
-    "revision": "140f5b5516b47844bf63fcbc7d73be0c",
-    "url": "/nb-logo-32.png"
-  },
-  {
-    "revision": "0c27d2f878c5204bc8c52552eb259169",
-    "url": "/nb-logo-512.png"
-  },
-  {
-    "revision": "a775af271e8685b2219088c48524f18d",
-    "url": "/nb-logo.svg"
   },
   {
     "revision": "0e6ad0774c2cd31d7fb628aa15599f6d",
@@ -60,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/share.jpg"
   },
   {
-    "revision": "fb81f62b9aa88edcbe8e",
+    "revision": "14bfd82e70a1d07c1aa7",
     "url": "/static/css/main.68029983.chunk.css"
   },
   {
@@ -72,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.77944104.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb81f62b9aa88edcbe8e",
-    "url": "/static/js/main.00d9dfd1.chunk.js"
+    "revision": "14bfd82e70a1d07c1aa7",
+    "url": "/static/js/main.ec140bb1.chunk.js"
   },
   {
     "revision": "2749240b9fc4cc6063d8",

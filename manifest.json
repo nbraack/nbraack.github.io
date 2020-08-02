@@ -1,35 +1,56 @@
 {
-  "short_name": "NB Home",
-  "name": "NB Homepage",
+  "short_name": "Luft 8b",
+  "name": "Luft 8b",
   "icons": [
     {
-      "src": "/nb-logo-512.png",
+      "src": "/logo-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/nb-logo-192.png",
+      "src": "/logo-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/nb-logo-152.png",
+      "src": "/logo-152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "/nb-logo-144.png",
+      "src": "/logo-144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/nb-logo-128.png",
-      "sizes": "128x128 64x64",
+      "src": "/logo-128.png",
+      "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "/nb-logo-32.png",
-      "sizes": "32x32 24x24 16x16",
+      "src": "/logo-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ,
+    {
+      "src": "/logo-24.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-16.png",
+      "sizes": "16x16",
       "type": "image/png"
     }
   ],
