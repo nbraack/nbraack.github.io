@@ -13,5 +13,84 @@
     "start": "07.08.2020 8:00",
     "end": "07.08.2020 13:15",
     "desc": "Bitte Federtasche, Collegeblock, Essen und Trinken mitbringen"
+  },{
+    "title": "BO-Startwoche",
+    "start": "10.08.2020",
+    "end": "14.08.2020",
+    "desc": "Informationen folgen über einen Elternbrief"
+  },{
+    "title": "Wie bewerbe ich mich richtig",
+    "start": "11.08.2020 10:00",
+    "end": "11.08.2020 11:30"
+  },{
+    "title": "SOS-Projekt",
+    "start": "12.08.2020 8:00",
+    "end": "12.08.2020 9:30"
+  },{
+    "title": "Elternabend",
+    "start": "12.08.2020",
+    "end": "12.08.2020",
+    "desc": "Ablauf wird noch bekannt gegeben"
+  },{
+    "title": "Zukunft jetzt!DAA",
+    "start": "13.08.2020 8:00",
+    "end": "13.08.2020 15:00",
+    "desc": "Ganztagsausflug"
+  },{
+    "title": "Kurswahlen Ganztag",
+    "start": "17.08.2020",
+    "end": "17.08.2020",
+    "desc": "Bis heute müssen die Kurshefte unterschrieben abgegeben werden."
+  },{
+    "title": "Klassenlehrertag",
+    "start": "27.08.2020 8:00",
+    "end": "27.08.2020 13:00",
+    "desc": "Noch in Planung"
+  },{
+    "title": "Klassenlehrertag",
+    "start": "28.08.2020 8:00",
+    "end": "28.08.2020 13:00",
+    "desc": "Noch in Planung"
+  },{
+    "title": "Herbstferien",
+    "start": "05.10.2020",
+    "end": "18.10.2020"
+  },{
+    "title": "Motivationsgespräche",
+    "start": "02.11.2020 13:15",
+    "end": "03.11.2020",
+    "desc": "Die Termine finden ohne Eltern statt und werden noch bakannt gegeben."
+  },{
+    "title": "Klassenlehrertag",
+    "start": "01.12.2020 8:00",
+    "end": "01.12.2020 13:00",
+    "desc": "Noch in Planung"
+  },{
+    "title": "Best of 2020",
+    "start": "15.12.2020 18:00",
+    "end": "15.12.2020 ",
+    "desc": "Das Weihnachtskonzert der Musikkurse."
+  },{
+    "title": "Weihnachtsferien",
+    "start": "21.12.2020",
+    "end": "04.01.2021"
+  },{
+    "title": "Notenabgabe",
+    "start": "08.01.2021",
+    "end": "08.01.2021"
+  },{
+    "title": "Vorkonferenz",
+    "start": "18.01.2021",
+    "end": "18.01.2021"
+  },{
+    "title": "Lernentwicklungsgespräche",
+    "start": "27.01.2021 13:15",
+    "end": "28.01.2021",
+    "desc": "Die LEG's finden mit Eltern statt. Die Termine werden noch bakannt gegeben."
+  },{
+    "title": "Halbjahrespause",
+    "start": "29.01.2021",
+    "end": "29.01.2021",
+    "desc": "Es findet kein Unterricht statt."
   }]
 }
