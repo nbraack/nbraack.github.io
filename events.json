@@ -5,31 +5,33 @@
     "end": "05.08.2020"
   },{
     "title": "Tutorenunterricht",
-    "start": "06.08.2020 8:00",
-    "end": "06.08.2020 13:15",
+    "start": "06.08.2020 8:30",
+    "end": "06.08.2020 13:45",
     "desc": "Bitte Federtasche, Collegeblock, Essen und Trinken mitbringen"
   },{
     "title": "Tutorenunterricht",
-    "start": "07.08.2020 8:00",
+    "start": "07.08.2020 8:30",
     "end": "07.08.2020 13:15",
     "desc": "Bitte Federtasche, Collegeblock, Essen und Trinken mitbringen"
   },{
     "title": "Wie bewerbe ich mich richtig",
-    "start": "11.08.2020 10:00",
-    "end": "11.08.2020 11:30"
+    "start": "11.08.2020 10:30",
+    "end": "11.08.2020 12:00",
+    "desc": "Ansonsten findet normaler Fachunterricht statt."
   },{
     "title": "SOS-Projekt",
-    "start": "12.08.2020 8:00",
-    "end": "12.08.2020 9:30"
+    "start": "12.08.2020 8:30",
+    "end": "12.08.2020 10:00",
+    "desc": "Ansonsten findet normaler Fachunterricht statt."
   },{
     "title": "Elternabend",
-    "start": "12.08.2020",
+    "start": "12.08.2020 18:30",
     "end": "12.08.2020",
-    "desc": "Ablauf wird noch bekannt gegeben"
+    "desc": "Treffen in der Mensa mit Mund-Nasen-Schutz."
   },{
     "title": "Zukunft jetzt!DAA",
     "start": "13.08.2020 8:00",
-    "end": "13.08.2020 15:00",
+    "end": "13.08.2020 14:00",
     "desc": "Ganztagsausflug"
   },{
     "title": "Kurswahlen Ganztag",
@@ -38,13 +40,13 @@
     "desc": "Bis heute müssen die Kurshefte unterschrieben abgegeben werden."
   },{
     "title": "Klassenlehrertag",
-    "start": "27.08.2020 8:00",
-    "end": "27.08.2020 13:00",
+    "start": "27.08.2020 8:30",
+    "end": "27.08.2020 14:00",
     "desc": "Noch in Planung"
   },{
     "title": "Klassenlehrertag",
-    "start": "28.08.2020 8:00",
-    "end": "28.08.2020 13:00",
+    "start": "28.08.2020 8:30",
+    "end": "28.08.2020 14:00",
     "desc": "Noch in Planung"
   },{
     "title": "Herbstferien",
