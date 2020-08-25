@@ -8,10 +8,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chalk-board.otf"
   },
   {
-    "revision": "3538ec7d28b3afe9b7e13c148082e161",
-    "url": "/detentions.json"
-  },
-  {
     "revision": "1722eb6f6ff26ca9a3bd49dee8a7f65b",
     "url": "/index.html"
   },
