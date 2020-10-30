@@ -69,20 +69,35 @@
     "end": "30.10.2020 12:00",
     "color": "darkred"
   },{
-    "title": "Motivationsgespräche",
-    "start": "02.11.2020 13:15",
-    "end": "03.11.2020",
-    "desc": "Die Termine finden ohne Eltern statt und werden noch bekannt gegeben."
+    "title": "Deutscharbeit",
+    "start": "30.11.2020 8:30",
+    "end": "30.11.2020 10:00",
+    "color": "darkred"
   },{
     "title": "Klassenlehrertag",
     "start": "01.12.2020 8:00",
     "end": "01.12.2020 13:00",
     "desc": "Noch in Planung"
   },{
+    "title": "Spaniarbeit",
+    "start": "04.12.2020 8:30",
+    "end": "04.12.2020 10:00",
+    "color": "darkred"
+  },{
+    "title": "Physikarbeit",
+    "start": "09.12.2020 13:00",
+    "end": "09.12.2020 14:20",
+    "color": "darkred"
+  },{
     "title": "Best of 2020",
     "start": "15.12.2020 18:00",
     "end": "15.12.2020 ",
     "desc": "Das Weihnachtskonzert der Musikkurse."
+  },{
+    "title": "Mathearbeit",
+    "start": "16.12.2020 8:30",
+    "end": "16.12.2020 10:00",
+    "color": "darkred"
   },{
     "title": "Weihnachtsferien",
     "start": "21.12.2020",
