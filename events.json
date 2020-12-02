@@ -71,7 +71,7 @@
   },{
     "title": "Deutscharbeit",
     "start": "01.12.2020 10:30",
-    "end": "91.12.2020 12:00",
+    "end": "01.12.2020 12:00",
     "color": "darkred"
   },{
     "title": "Vortrag Physik",
@@ -85,13 +85,18 @@
     "color": "darkred"
   },{
     "title": "Physikarbeit",
-    "start": "09.12.2020 13:00",
-    "end": "09.12.2020 14:20",
+    "start": "09.12.2020 12:30",
+    "end": "09.12.2020 14:200",
     "color": "darkred"
   },{
-    "title": "Engliacharbeit",
+    "title": "Englischarbeit",
     "start": "11.12.2020 10:30",
     "end": "11.12.2020 12:00",
+    "color": "darkred"
+  },{
+    "title": "Chemiearbeit",
+    "start": "15.12.2020 12:30",
+    "end": "15.12.2020 14:00",
     "color": "darkred"
   },{
     "title": "Best of 2020",
