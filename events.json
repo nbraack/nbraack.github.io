@@ -86,7 +86,7 @@
   },{
     "title": "Physikarbeit",
     "start": "09.12.2020 12:30",
-    "end": "09.12.2020 14:200",
+    "end": "09.12.2020 14:00",
     "color": "darkred"
   },{
     "title": "Englischarbeit",
@@ -108,6 +108,11 @@
     "start": "16.12.2020 8:30",
     "end": "16.12.2020 10:00",
     "color": "darkred"
+  },{
+    "title": "Letzter Schultag",
+    "start": "18.12.2020",
+    "end": "18.12.2020 ",
+    "desc": "1./2. Stunde regulärer Unterricht, 3./4. Stunde Wichteln im Klassenraum und um 12 Uhr ist Schulschluss."
   },{
     "title": "Französischarbeit",
     "start": "18.12.2020 8:30",
