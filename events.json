@@ -1,144 +1,108 @@
 {
   "events": [{
     "title": "Sommerferien",
-    "start": "25.06.2020",
-    "end": "05.08.2020"
+    "start": "24.06.2021",
+    "end": "04.08.2021"
   },{
     "title": "Tutorenunterricht",
-    "start": "06.08.2020 8:30",
-    "end": "06.08.2020 13:45",
+    "start": "05.08.2021 8:00",
+    "end": "05.08.2020 13:15",
     "desc": "Bitte Federtasche, Collegeblock, Essen und Trinken mitbringen"
   },{
     "title": "Tutorenunterricht",
-    "start": "07.08.2020 8:30",
-    "end": "07.08.2020 13:15",
+    "start": "06.08.2021 8:30",
+    "end": "06.08.2021 13:15",
     "desc": "Bitte Federtasche, Collegeblock, Essen und Trinken mitbringen"
   },{
-    "title": "Wie bewerbe ich mich richtig",
-    "start": "11.08.2020 10:30",
-    "end": "11.08.2020 12:00",
-    "desc": "Ansonsten findet normaler Fachunterricht statt."
-  },{
-    "title": "SOS-Projekt",
-    "start": "12.08.2020 8:30",
-    "end": "12.08.2020 10:00",
-    "desc": "Ansonsten findet normaler Fachunterricht statt."
+    "title": "Betriebspraktikum 1",
+    "start": "09.08.2021",
+    "end": "27.08.2021",
+    "desc": "Wer keinen Platz gefunden hat macht Berufsorientierung in der Schule."
   },{
     "title": "Elternabend",
-    "start": "12.08.2020 18:30",
-    "end": "12.08.2020",
+    "start": "11.08.2021 19:00",
+    "end": "11.08.2021",
     "desc": "Treffen in der Mensa mit Mund-Nasen-Schutz."
   },{
-    "title": "Zukunft jetzt!DAA",
-    "start": "13.08.2020 8:00",
-    "end": "13.08.2020 14:00",
-    "desc": "Ganztagsausflug"
-  },{
     "title": "Kurswahlen Ganztag",
-    "start": "17.08.2020",
-    "end": "17.08.2020",
+    "start": "16.08.2021",
+    "end": "16.08.2021",
     "desc": "Bis heute müssen die Kurshefte unterschrieben abgegeben werden."
   },{
-    "title": "Fachtag",
-    "start": "28.08.2020 10:30",
-    "end": "28.08.2020 14:00",
-    "desc": "Berufsorientierung"
+    "title": "Lernförderung",
+    "start": "20.08.2021",
+    "end": "20.08.2021",
+    "desc": "Bis heute müssen die Lern- und Fördervereinbarungen unterschrieben abgegeben werden."
   },{
-    "title": "Gesellschaftarbeit",
-    "start": "25.09.2020 12:30",
-    "end": "25.09.2020 14:00",
-    "color": "darkred"
+    "title": "Pädagogischer Jahrestag",
+    "start": "22.09.2021",
+    "end": "22.09.2021 ",
+    "desc": "Unterrichtsfrei"
   },{
-    "title": "Mathearbeit",
-    "start": "30.09.2020 08:30",
-    "end": "30.09.2020 10:00",
-    "desc": "Thema: Flächenberechnung",
-    "color": "darkred"
-  },{
-    "title": "Deutscharbeit",
-    "start": "29.09.2020 10:30",
-    "end": "29.09.2020 12:00",
-    "color": "darkred"
+    "title": "Klassenlehrertag",
+    "start": "01.10.2021",
+    "end": "01.10.2021 ",
+    "desc": "Noch in Planung"
   },{
     "title": "Herbstferien",
-    "start": "05.10.2020",
-    "end": "18.10.2020"
+    "start": "04.10.2021",
+    "end": "17.10.2021"
   },{
-    "title": "Englischarbeit",
-    "start": "30.10.2020 10:30",
-    "end": "30.10.2020 12:00",
-    "color": "darkred"
+    "title": "Umstufung",
+    "start": "22.10.2021",
+    "end": "22.10.2021 ",
+    "desc": "Die Probezeit in den Einser Kursen Mathe und Englisch endet."
   },{
-    "title": "Deutscharbeit",
-    "start": "01.12.2020 10:30",
-    "end": "01.12.2020 12:00",
-    "color": "darkred"
+    "title": "Motivationsgespräche",
+    "start": "01.11.2021",
+    "end": "01.11.2021 ",
+    "desc": "Ganztägige Gespräche mit den Schülerinnen und Schüler (ohne Eltern).Es findet kein weiterer Unterricht statt."
   },{
-    "title": "Vortrag Physik",
-    "start": "02.12.2020 12:30",
-    "end": "02.12.2020 14:00",
-    "color": "darkred"
+    "title": "Motivationsgespräche",
+    "start": "02.11.2021",
+    "end": "02.11.2021 ",
+    "desc": "Ab 13:15 Uhr folgen weitere Gespräche."
   },{
-    "title": "Spanischarbeit",
-    "start": "04.12.2020 8:30",
-    "end": "04.12.2020 10:00",
-    "color": "darkred"
-  },{
-    "title": "Physikarbeit",
-    "start": "09.12.2020 12:30",
-    "end": "09.12.2020 14:00",
-    "color": "darkred"
-  },{
-    "title": "Englischarbeit",
-    "start": "11.12.2020 10:30",
-    "end": "11.12.2020 12:00",
-    "color": "darkred"
-  },{
-    "title": "Chemiearbeit",
-    "start": "15.12.2020 12:30",
-    "end": "15.12.2020 14:00",
-    "color": "darkred"
-  },{
-    "title": "Best of 2020",
-    "start": "15.12.2020 18:00",
-    "end": "15.12.2020 ",
-    "desc": "Abgesagt"
-  },{
-    "title": "Mathearbeit",
-    "start": "16.12.2020 8:30",
-    "end": "16.12.2020 10:00",
-    "color": "darkred"
+    "title": "Klassenlehrertag",
+    "start": "07.12.2021",
+    "end": "07.12.2021 ",
+    "desc": "Noch in Planung"
   },{
     "title": "Letzter Schultag",
-    "start": "18.12.2020",
-    "end": "18.12.2020 ",
-    "desc": "1./2. Stunde regulärer Unterricht, 3./4. Stunde Wichteln im Klassenraum und um 12 Uhr ist Schulschluss."
-  },{
-    "title": "Französischarbeit",
-    "start": "18.12.2020 8:30",
-    "end": "18.12.2020 10:00",
-    "color": "darkred"
+    "start": "22.12.2021",
+    "end": "22.12.2021 ",
+    "desc": "Ablauf noch unklar."
   },{
     "title": "Weihnachtsferien",
-    "start": "21.12.2020",
-    "end": "04.01.2021"
+    "start": "23.12.2021",
+    "end": "05.01.2022"
   },{
     "title": "Notenabgabe",
-    "start": "08.01.2021",
-    "end": "08.01.2021"
+    "start": "07.01.2022",
+    "end": "07.01.2022"
   },{
     "title": "Vorkonferenz",
-    "start": "18.01.2021",
-    "end": "18.01.2021"
+    "start": "13.01.2022",
+    "end": "13.01.2022",
+    "desc": "Einladung folgt."
+  },{
+    "title": "Zeugniskonferenz",
+    "start": "18.01.2022",
+    "end": "18.01.2022"
+  },{
+    "title": "Zeugnisausgabe",
+    "start": "25.01.2022",
+    "end": "25.01.2022 ",
+    "desc": "Bitte eine Zeugnismappe mitbringen."
   },{
     "title": "Lernentwicklungsgespräche",
-    "start": "27.01.2021 13:15",
-    "end": "28.01.2021",
+    "start": "26.01.2022 13:15",
+    "end": "27.01.2022",
     "desc": "Die LEG's finden mit Eltern statt. Die Termine werden noch bekannt gegeben."
   },{
     "title": "Halbjahrespause",
-    "start": "29.01.2021",
-    "end": "29.01.2021",
+    "start": "28.01.2022",
+    "end": "28.01.2022",
     "desc": "Es findet kein Unterricht statt."
   }]
 }
