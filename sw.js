@@ -1,2 +1,31 @@
-!function(e){var t={};function n(r){if(t[r])return t[r].exports;var o=t[r]={i:r,l:!1,exports:{}};return e[r].call(o.exports,o,o.exports,n),o.l=!0,o.exports}n.m=e,n.c=t,n.d=function(e,t,r){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},n.r=function(e){"undefined"!==typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"===typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(n.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var o in e)n.d(r,o,function(t){return e[t]}.bind(null,o));return r},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="/",n(n.s=0)}([function(e,t){workbox.setConfig({debug:!1}),self.addEventListener("install",(function(e){return e.waitUntil(self.skipWaiting())})),self.addEventListener("activate",(function(e){return e.waitUntil(self.clients.claim())})),workbox.precaching.precacheAndRoute([{'revision':'1c4dfd89adf614c5592c80371401b5c3','url':'/index.html'},{'revision':'0861d508134a11f2879fb0e90a991804','url':'/static/css/main.12b94e76.chunk.css'},{'revision':'8091610c7e8673a298e40a9cf0fa126d','url':'/static/js/2.4bae4dea.chunk.js'},{'revision':'ac1d32e2116a66660d06e2f6a5ba9780','url':'/static/js/2.4bae4dea.chunk.js.LICENSE.txt'},{'revision':'921515af1a37420942e29e48e86a6e17','url':'/static/js/main.6990131f.chunk.js'},{'revision':'b9640b8e10cb7508ac7b5d903512908c','url':'/static/js/runtime-main.3243a27a.js'},{'revision':'63b9a57292832fee69d9f581aa134ace','url':'/static/media/chalk-board.67e07c37.otf'}]),workbox.routing.registerRoute("/",new workbox.strategies.NetworkFirst)}]);
-//# sourceMappingURL=sw.js.map
+const CACHE_NAME = 'nbraack-4c1cf18c-3948-4d27-b61b-3dd9951d974c';
+const STATIC_FILES = ['/','/index.html','/static/css/main.55079bcc.chunk.css','/static/js/2.4bae4dea.chunk.js','/static/js/2.4bae4dea.chunk.js.LICENSE.txt','/static/js/main.6990131f.chunk.js','/static/js/runtime-main.3243a27a.js','/static/media/chalk-board.67e07c37.otf'];
+
+self.addEventListener('install', (event) => {
+    event.waitUntil(
+        caches()
+            .open(CACHE_NAME)
+            .then(cache => cache.addAll(STATIC_FILES))
+            .then(() => self.skipWaiting())
+    );
+});
+self.addEventListener('activate', (event) => {
+    event.waitUntil(
+        caches()
+            .keys()
+            .then(keyList =>
+                Promise.all(
+                    keyList.map(key => {
+                        if (key !== CACHE_NAME) return caches().delete(key);
+                    })
+                )
+            )
+    );
+});
+self.addEventListener('fetch', (event) => {
+    event.respondWith(
+        caches.match(event.request).then((response) => {
+            return response || fetch(event.request);
+        })
+    );
+});
