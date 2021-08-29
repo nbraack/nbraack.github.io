@@ -39,6 +39,12 @@
     "end": "22.09.2021",
     "desc": "Unterrichtsfrei"
   },{
+    "title": "Mathearbeit Nr. 1",
+    "start": "30.09.2021" 08:00,
+    "end": "30.09.2021" 09:30,
+    "color": "darkred",
+    "desc": "Thema: Satz des Pythagoras"
+  },{
     "title": "Klassenlehrertag",
     "start": "01.10.2021",
     "end": "01.10.2021 ",
@@ -62,6 +68,12 @@
     "start": "02.11.2021",
     "end": "02.11.2021",
     "desc": "Ab 13:15 Uhr folgen weitere Gespräche."
+  },{
+    "title": "Mathearbeit Nr. 2",
+    "start": "29.11.2021" 08:00,
+    "end": "29.11.2021" 09:30,
+    "color": "darkred",
+    "desc": "Thema: Lineare Funktionen"
   },{
     "title": "Klassenlehrertag",
     "start": "07.12.2021",
