@@ -74,11 +74,6 @@
     "end": "02.11.2021",
     "desc": "Ab 13:15 Uhr folgen weitere Gespräche."
   },{
-    "title": "Deutscharbeit Nr. 1",
-    "start": "02.11.2021 10:00",
-    "end": "02.11.2021 11:30",
-    "color": "darkred"
-  },{
     "title": "Mathearbeit Nr. 2(Lin/Lft)",
     "start": "02.12.2021 08:00",
     "end": "02.12.2021 09:30",
@@ -90,7 +85,7 @@
     "end": "06.12.2021 09:30",
     "color": "darkred",
     "desc": "Thema: Lineare Funktionen"
-  }{
+  },{
     "title": "Klassenlehrertag",
     "start": "07.12.2021",
     "end": "07.12.2021",
