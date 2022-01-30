@@ -133,11 +133,6 @@
     "start": "18.01.2022",
     "end": "18.01.2022"
   },{
-    "title": "Elternabend Berufsorientierung",
-    "start": "20.01.2022",
-    "end": "20.01.2022",
-    "desc": "Informationen folgen"
-  },{
     "title": "Zeugnisausgabe",
     "start": "25.01.2022",
     "end": "25.01.2022",
@@ -157,6 +152,22 @@
     "start": "10.02.2022 19:00",
     "end": "10.02.2022",
     "desc": "Einladung folgt"
+  },{
+    "title": "Kermit-Testung",
+    "start": "08.02.2022 08:00",
+    "end": "08.02.2022 12:00",
+    "color": "darkred"
+  },{
+    "title": "Mathearbeit Nr. 3",
+    "start": "28.02.2022 08:00",
+    "end": "28.02.2022 09:30",
+    "color": "darkred",
+    "desc": "Thema: Kreis und Zylinder"
+  },{
+    "title": "Deutscharbeit Nr. 3",
+    "start": "01.03.2022 10:00",
+    "end": "01.03.2022 11:30",
+    "color": "darkred"
   },{
     "title": "Märzferien",
     "start": "07.03.2022",
