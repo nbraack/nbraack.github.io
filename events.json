@@ -148,16 +148,22 @@
     "end": "28.01.2022",
     "desc": "Es findet kein Unterricht statt."
   },{
+    "title": "Englischarbeit Nr. 3",
+    "start": "25.02.2022 08:00",
+    "end": "25.02.2022 09:30",
+    "color": "darkred"
+  },{
     "title": "Mathearbeit Nr. 3",
     "start": "28.02.2022 08:00",
     "end": "28.02.2022 09:30",
     "color": "darkred",
     "desc": "Thema: Kreis und Zylinder"
   },{
-    "title": "Deutscharbeit Nr. 3",
-    "start": "01.03.2022 10:00",
-    "end": "01.03.2022 11:30",
-    "color": "darkred"
+    "title": "Abgabe Physik",
+    "start": "03.03.2022 14:00",
+    "end": "03.03.2022 14:00",
+    "color": "darkred",
+    "desc": "Thema: Projektarbeit Mäusefallenauto. Das Modell und die schriftliche Ausarbeitung muss abgegeben werden."
   },{
     "title": "Märzferien",
     "start": "07.03.2022",
@@ -167,6 +173,11 @@
     "start": "24.03.2022",
     "end": "24.03.2022",
     "desc": "Die Teilnahme ist freiwillig und findet während des Unterrichts statt."
+  },{
+    "title": "Deutscharbeit Nr. 3",
+    "start": "05.04.2022 10:00",
+    "end": "05.04.2022 11:30",
+    "color": "darkred"
   },{
     "title": "ESA Deutsch (mdl.)",
     "start": "07.04.2022",
@@ -203,6 +214,11 @@
     "end": "11.05.2022",
     "color": "darkred",
     "desc": "Prüfungen abgesagt"
+  },{
+    "title": "Mathearbeit Nr. 4",
+    "start": "16.05.2022 08:00",
+    "end": "16.05.2022 09:30",
+    "color": "darkred"
   },{
     "title": "Lauffest",
     "start": "20.05.2022",
