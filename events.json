@@ -24,35 +24,29 @@
     "end": "11.08.2021",
     "desc": "Treffen in der Mensa mit Mund-Nasen-Schutz."
   },{
+    "title": "Kurswahlen Ganztag",
+    "start": "16.08.2021",
+    "end": "16.08.2021",
+    "desc": "Bis heute müssen die Kurshefte unterschrieben abgegeben werden."
+  },{
     "title": "Lernförderung",
     "start": "20.08.2021",
     "end": "20.08.2021",
     "desc": "Bis heute müssen die Lern- und Fördervereinbarungen unterschrieben abgegeben werden."
-  },{
-    "title": "Abgabe Praktikumsmappe",
-    "start": "17.09.2021",
-    "end": "17.09.2021",
-    "desc": "Bis heute muss die Praktikumsmappe abgegeben werden."
   },{
     "title": "Pädagogischer Jahrestag",
     "start": "22.09.2021",
     "end": "22.09.2021",
     "desc": "Unterrichtsfrei"
   },{
-    "title": "Mathearbeit Nr. 1",
-    "start": "30.09.2021 08:00",
-    "end": "30.09.2021 09:30",
-    "color": "darkred",
-    "desc": "Thema: Satz des Pythagoras"
+    "title": "Klassenlehrertag",
+    "start": "01.10.2021",
+    "end": "01.10.2021 ",
+    "desc": "Noch in Planung"
   },{
     "title": "Herbstferien",
     "start": "04.10.2021",
     "end": "17.10.2021"
-  },{
-    "title": "Englischarbeit Nr. 1",
-    "start": "20.10.2021 12:30",
-    "end": "20.10.2021 14:00",
-    "color": "darkred"
   },{
     "title": "Umstufung",
     "start": "22.10.2021",
@@ -64,52 +58,15 @@
     "end": "01.11.2021",
     "desc": "Ganztägige Gespräche mit den Schülerinnen und Schüler (ohne Eltern).Es findet kein weiterer Unterricht statt."
   },{
-    "title": "Deutscharbeit Nr. 1",
-    "start": "02.11.2021 10:00",
-    "end": "02.11.2021 11:30",
-    "color": "darkred"
-  },{
     "title": "Motivationsgespräche",
     "start": "02.11.2021",
     "end": "02.11.2021",
     "desc": "Ab 13:15 Uhr folgen weitere Gespräche."
   },{
-    "title": "Mathearbeit Nr. 2(Lin/Lft)",
-    "start": "02.12.2021 08:00",
-    "end": "02.12.2021 09:30",
-    "color": "darkred",
-    "desc": "Thema: Lineare Funktionen"
-  },{
-    "title": "Mathearbeit Nr. 2(Sfk)",
-    "start": "06.12.2021 08:00",
-    "end": "06.12.2021 09:30",
-    "color": "darkred",
-    "desc": "Thema: Lineare Funktionen"
-  },{
     "title": "Klassenlehrertag",
     "start": "07.12.2021",
     "end": "07.12.2021",
     "desc": "Noch in Planung"
-  },{
-    "title": "Englischarbeit Nr. 2",
-    "start": "10.12.2021 08:00",
-    "end": "10.12.2021 09:30",
-    "color": "darkred"
-  },{
-    "title": "Deutscharbeit Nr. 2",
-    "start": "14.12.2021 10:00",
-    "end": "14.12.2021 11:30",
-    "color": "darkred"
-  },{
-    "title": "Physikarbeit",
-    "start": "21.12.2021 12:30",
-    "end": "21.12.2021 14:00",
-    "color": "darkred"
-  },{
-    "title": "Spanischarbeit",
-    "start": "21.12.2021 12:30",
-    "end": "21.12.2021 14:00",
-    "color": "darkred"
   },{
     "title": "Letzter Schultag",
     "start": "22.12.2021",
@@ -148,22 +105,10 @@
     "end": "28.01.2022",
     "desc": "Es findet kein Unterricht statt."
   },{
-    "title": "Englischarbeit Nr. 3",
-    "start": "25.02.2022 08:00",
-    "end": "25.02.2022 09:30",
-    "color": "darkred"
-  },{
-    "title": "Mathearbeit Nr. 3",
-    "start": "28.02.2022 08:00",
-    "end": "28.02.2022 09:30",
-    "color": "darkred",
-    "desc": "Thema: Kreis und Zylinder"
-  },{
-    "title": "Abgabe Physik",
-    "start": "03.03.2022 14:00",
-    "end": "03.03.2022 14:00",
-    "color": "darkred",
-    "desc": "Thema: Projektarbeit Mäusefallenauto. Das Modell und die schriftliche Ausarbeitung muss abgegeben werden."
+    "title": "Elternabend",
+    "start": "10.02.2022 19:00",
+    "end": "10.02.2022",
+    "desc": "Einladung folgt"
   },{
     "title": "Märzferien",
     "start": "07.03.2022",
@@ -174,50 +119,43 @@
     "end": "24.03.2022",
     "desc": "Die Teilnahme ist freiwillig und findet während des Unterrichts statt."
   },{
-    "title": "Deutscharbeit Nr. 3",
-    "start": "05.04.2022 10:00",
-    "end": "05.04.2022 11:30",
-    "color": "darkred"
+    "title": "Prüfungsvorbereitung",
+    "start": "05.04.2022",
+    "end": "05.04.2022",
+    "desc": "Ganztägige Vorbereitung aus die mdl. ESA Prüfungen"
   },{
     "title": "ESA Deutsch (mdl.)",
     "start": "07.04.2022",
     "end": "07.04.2022",
-    "color": "darkred",
-    "desc": "Prüfungen abgesagt"
+    "color": "darkred"
   },{
     "title": "ESA Englisch (mdl.)",
     "start": "11.04.2022",
     "end": "11.04.2022",
-    "color": "darkred",
-    "desc": "Prüfungen abgesagt"
+    "color": "darkred"
   },{
     "title": "ESA Mathe (mdl.)",
     "start": "13.04.2022",
     "end": "13.04.2022",
-    "color": "darkred",
-    "desc": "Prüfungen abgesagt"
+    "color": "darkred"
+  },{
+    "title": "Kompaktkurse ESA (schriftlich)",
+    "start": "27.04.2022",
+    "end": "04.05.2022"
   },{
     "title": "ESA Englisch (schriftlich)",
     "start": "05.05.2022",
     "end": "05.05.2022",
-    "color": "darkred",
-    "desc": "Prüfungen abgesagt"
+    "color": "darkred"
   },{
     "title": "ESA Deutsch (schriftlich)",
     "start": "09.05.2022",
     "end": "09.05.2022",
-    "color": "darkred",
-    "desc": "Prüfungen abgesagt"
+    "color": "darkred"
   },{
     "title": "ESA Mathe (schriftlich)",
     "start": "11.05.2022",
     "end": "11.05.2022",
-    "color": "darkred",
-    "desc": "Prüfungen abgesagt"
-  },{
-    "title": "Mathearbeit Nr. 4",
-    "start": "16.05.2022 08:00",
-    "end": "16.05.2022 09:30",
     "color": "darkred"
   },{
     "title": "Lauffest",
